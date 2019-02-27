@@ -18,7 +18,7 @@ This is example for Markdown with UML and ER diagram.
 |    1  |    1 |     1   |     1  |
 
 
-## Plant UML Example
+## PlantUML Examples
 
 ### Sequence Diagram
 
@@ -30,7 +30,7 @@ Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
 ```
 
-###
+### ER Diagrams
 
 ```plantuml
 entity "entity1" {
